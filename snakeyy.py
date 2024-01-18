@@ -1,3 +1,5 @@
+# Author: Juba Twain.
+
 # Import the pygame and random modules
 import pygame
 import random
